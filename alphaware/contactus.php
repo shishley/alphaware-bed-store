@@ -93,7 +93,7 @@
 			</ul>
 	</div>
 	
-		<img src="img/contactus.jpg" style="width:1150px; height:250px; border:1px solid #000; ">
+		<img src="img/cont.jpg" style="width:1150px; height:250px; border:1px solid #000; ">
 	<br />
 	<br />
 	

@@ -93,7 +93,7 @@
 			</ul>
 	</div>
 	
-		<img src="../alphaware/img/about1.jpg" style="width:1150px; height:250px; border:1px solid #000; ">
+		<img src="../alphaware/img/aboutpic.jpg" style="width:1150px; height:250px; border:1px solid #000; ">
 	<br />
 	<br />
 	
