@@ -145,7 +145,7 @@
 							echo "<a href='details.php?id=".$fetch['product_id']."'><img class='img-polaroid' src='photo/".$fetch['product_image']."' height = '300px' width = '300px'></a>";
 							echo "".$fetch['product_name']."";
 							echo "<br />";
-							echo "P ".$fetch['product_price']."";
+							echo "R ".$fetch['product_price']."";
 							echo "<br />";
 							echo "<h3 class='text-info' style='position:absolute; margin-top:-90px; text-indent:15px;'> Size: ".$fetch['product_size']."</h3>";
 							echo "</center>";
